@@ -8,7 +8,7 @@
 - GitHub: [https://github.com/0xbaiwan/keitokun_bot](https://github.com/0xbaiwan/keitokun_bot)
 
 ## 功能介绍
-这是一个用于KeitoKun游戏的自动收集助手，可以帮助您自动完成每日收集任务。
+这是一个用于[KeitoKun游戏](https://liff.line.me/2006732015-ONVjn6p3?start=24931201420)的自动收集助手，可以帮助您自动完成每日收集任务。
 
 ## 功能特点
 - ✅ 多账号支持
